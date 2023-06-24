@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Abhi Jonnalagadda/Scripts/GitHub/Repositories/The-Odin-Project/Links and Images",
-      "program": "c:/Abhi Jonnalagadda/Scripts/GitHub/Repositories/The-Odin-Project/Links and Images/build/Debug/outDebug",
+      "cwd": "c:/Abhi Jonnalagadda/Scripts/GitHub/Repositories/The-Odin-Project/HTML/Links and Images",
+      "program": "c:/Abhi Jonnalagadda/Scripts/GitHub/Repositories/The-Odin-Project/HTML/Links and Images/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
