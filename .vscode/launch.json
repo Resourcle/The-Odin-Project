@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Abhi Jonnalagadda/Programming/GitHub/Repositories/The-Odin-Project/HTML",
-      "program": "c:/Abhi Jonnalagadda/Programming/GitHub/Repositories/The-Odin-Project/HTML/build/Debug/outDebug",
+      "cwd": "c:/Abhi Jonnalagadda/Programming/GitHub/Repositories/The-Odin-Project",
+      "program": "c:/Abhi Jonnalagadda/Programming/GitHub/Repositories/The-Odin-Project/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
