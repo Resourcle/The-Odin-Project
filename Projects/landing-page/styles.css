@@ -1,0 +1,128 @@
+/* Header Section */
+.header{
+    display: flex;
+    padding: 20px;
+    background-color: #008080;
+    color: azure;
+    justify-content: space-between;
+    align-items: center;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+   
+}
+
+.header-logo{
+    display: flex;
+    resize: none;
+    font-size: 25px;
+}
+
+.header-link{
+    border: none;
+    background: none;
+    color: white;
+    cursor: pointer;
+    position: relative;
+    gap: 2px;
+    display: flex;
+    padding-right: 2px;
+}
+
+
+/* Hero Section */
+
+.hero-page{
+    display: flex;
+    flex-direction: row;
+    padding: 50px;
+    justify-content: center;
+    flex-flow: row wrap;
+    gap: 35px;
+    background-color: #1E2D40;
+    color: azure;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+
+}
+.left-text{
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    width: 400px;
+}
+
+.main-text{
+    font-size: 48px;
+}
+
+.bottom-text{
+    display: flex;
+    font-size: 18px;
+    justify-content: flex-start;
+}
+
+.button{
+    padding: 5px;
+    background-color: #0047AB;
+    border-radius: 5px;
+    color: azure;
+    cursor: pointer;
+    width: 70px;
+}
+
+.logo{
+    width: 400px;
+    border-radius: 15px;
+}
+
+
+/* Info Section */
+
+.info-section{
+    display: flex;
+    flex-direction: row;
+    box-sizing: border-box;
+    text-align: center;
+    align-items: center;
+    padding: 50px;
+    justify-content: center;
+    gap: 30px;
+    background-color: #8FBC8F;
+    flex-flow: column wrap;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+
+.info_container{
+    display: flex;
+    align-items: center;
+    flex-flow: row wrap;
+    text-align: center;
+}
+
+.info-pics{
+    width: 200px;
+    text-align: center;
+    margin: 100px;
+    text-align: center;
+}
+
+
+.info-pic-1{
+    border: 3px solid #FF7034;
+    margin: 5px;
+    width: 300px;
+    height: auto;
+}
+
+.info-pic-2{
+    margin: 5px;
+    width: 300px;
+    height: auto;
+    border: 3px solid #FF7034;
+}
+
+.info-pic-3{
+    margin: 5px;
+    width: 200px;
+    height: auto;
+    border: 3px solid #FF7034;
+}
